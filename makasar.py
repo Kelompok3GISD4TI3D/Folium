@@ -54,5 +54,3 @@ folium.Marker(
     popup='pisang utara',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-m.save('index.html')
-.
