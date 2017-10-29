@@ -214,5 +214,60 @@ folium.Marker(
     popup='Sudiang',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
+    location=(-5.184010, 119.455371)
+    popup='Gn.Sari',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.164492, 119.426996)
+    popup='Jl.Landak  Baru Lorong 9',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.164086, 119.438172)
+    popup='Tidung',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.211083, 119.390781)
+    popup='Barombong',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.123875, 119.394760)
+    popup='Lae-lae',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.152053, 119.401400)
+    popup='Panambungan',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.155144, 119.396060)
+    popup='Maccini Sombala',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.132788, 119.403133)
+    popup='Bulo Gading',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.107180, 119.538051)
+    popup='Sudiang Raya',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.074111, 119.4811899)
+    popup='Untia',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.110343, 119.482621)
+    popup='Kapasa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
 
    
