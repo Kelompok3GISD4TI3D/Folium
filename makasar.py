@@ -84,11 +84,6 @@ folium.Marker(
     popup='Selat Makassar',
     icon=folium.Icon(icon='info-sign')
      ).add_to(m)    
- folium.Marker(
-    location=(-5.143971, 119.400564)
-    popup='Selat Makassar',
-    icon=folium.Icon(icon='info-sign')
-     ).add_to(m)   
    folium.Marker(
     location=(-5.155939, 119.470946)
     popup='Antang',
@@ -135,11 +130,6 @@ folium.Marker(
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
-    location=(-5.155789, 119.485408)
-    popup='Antang',
-    Icon=folium.Icon(icon='info-sign')
-    ).add_to(m)
-folium.Marker(
     location=(-5.171860, 119.391509)
     popup='Tj. Merdeka',
     Icon=folium.Icon(icon='info-sign')
@@ -174,3 +164,55 @@ folium.Marker(
     popup='Tamangapa',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
+    location=(-5.174061, 119.510771)
+    popup='manggala',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.157306, 119.506651)
+    popup='Moncongloe Lappara',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.108750, 119.493262)
+    popup='Daya',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.111144, 119.494978)
+    popup='Kapasa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.123112, 119.460989)
+    popup='Lakkang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.083787, 119.502531)
+    popup='Bulurokeng',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.127899, 119.465452)
+    popup='Pampang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.116615, 119.430433)
+    popup='Kaluku Bodoa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.129267, 119.486738)
+    popup='Tamalanrea Indah',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.084470, 119.533430)
+    popup='Sudiang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+
+   
