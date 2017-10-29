@@ -269,5 +269,18 @@ folium.Marker(
     popup='Kapasa',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-
-   
+folium.Marker(
+    location=(-5.143629, 119.454466)
+    popup='Karapuang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.138158, 119.458929)
+    popup='Panaikang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.171325, 119.450003)
+    popup='Kasi-kasi',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m))
