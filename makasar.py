@@ -124,3 +124,53 @@ folium.Marker(
     popup='Moh Tahir',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
+    location=(-5.136897, 119.492532)
+    popup='Unnamed Road',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.136320, 119.491051)
+    popup='Makassar',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.155789, 119.485408)
+    popup='Antang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.171860, 119.391509)
+    popup='Tj. Merdeka',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.174595, 119.417945)
+    popup='Jongaya',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.187930, 119.426871)
+    popup='Parang Tambung',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.187246, 119.440604)
+    popup='Mangasa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.189298, 119.452621)
+    popup='Gn. Sari',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.176305, 119.465324)
+    popup='Bangkala',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.191135, 119.497594)
+    popup='Tamangapa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
