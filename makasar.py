@@ -439,3 +439,8 @@ folium.Marker(
     popup='Kaluku Bodoa',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(    
+    location=(-5.161711,119.437535)
+    popup='Letjen Hertasning',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
