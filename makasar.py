@@ -283,4 +283,56 @@ folium.Marker(
     location=(-5.171325, 119.450003)
     popup='Kasi-kasi',
     Icon=folium.Icon(icon='info-sign')
-    ).add_to(m))
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.189447, 119.4074313)
+    popup='Benteng Somba Opu',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.151152, 119.397818)
+    popup='Jalan Metro',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.162376, 119.394382)
+    popup='Maccini Sombala',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.157648, 119.411551)
+    popup='Mariso',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.135080, 119.437300)
+    popup='Karuwisi Utara',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.143629, 119.460646)
+    popup='Paropo',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.127899, 119.475752)
+    popup='Lakkang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.184318, 119.411551)
+    popup='Balang Baru',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.117299, 119.409491)
+    popup='Ujung Tanah',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.135080, 119.429060)
+    popup='Kec. Makassar',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+
+
