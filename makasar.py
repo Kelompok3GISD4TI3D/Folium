@@ -384,4 +384,58 @@ folium.Marker(
     popup='Masale',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-
+folium.Marker(    
+    location=(-5.047491, 119.328469)
+    popup='Barang Lompo',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.081137, 119.320097)
+    popup='Barrang Caddi',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.105004, 119.289206)
+    popup='P. Kondingareng',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.125164, 119.343229)
+    popup='Lae-Lae',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.152861, 119.400564)
+    popup='Panambungan',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.105330, 119.450346)
+    popup='Parang Loe',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.064636, 119.522444)
+    popup='Sudiang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.075237, 119.534460)
+    popup='Sudiang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.162777, 119.511458)
+    popup='Manggala',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.174745, 119.510771)
+    popup='Tamangapa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.105337, 119.433502)
+    popup='Kaluku Bodoa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
