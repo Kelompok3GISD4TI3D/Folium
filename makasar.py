@@ -384,3 +384,4 @@ folium.Marker(
     popup='Masale',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+
