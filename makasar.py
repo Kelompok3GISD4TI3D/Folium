@@ -444,3 +444,43 @@ folium.Marker(
     popup='Letjen Hertasning',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
+    location=(-5.1506913,119.4304876)
+    popup='Monginsidi Baru',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.150094, 119.428213)
+    popup='Mutiara I',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.150724, 119.427934)
+    popup='Mutiara II',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+    location=(-5.151023, 119.427741)
+    popup='Mutiara III',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.151077, 119.427880)
+    popup='Mutiara IV',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.151419, 119.427794)
+    popup='Mutiara V',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.151088, 119.423406)
+    popup='Anuang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.149934, 119.419200)
+    popup='Domba',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.149998, 119.415348)
+    popup='Merpati',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
