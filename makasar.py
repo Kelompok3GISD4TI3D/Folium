@@ -334,5 +334,53 @@ folium.Marker(
     popup='Kec. Makassar',
     Icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-
-
+folium.Marker(    
+    location=(-5.136106, 119.416014)
+    popup='Ujung Pandang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.174061, 119.428030)
+    popup='Mannuruki',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.185344, 119.425284)
+    popup='Parang Tambung',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.107724, 119.436613)
+    popup='buloa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.142261, 119.454123)
+    popup='Karampuang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.118667, 119.509398)
+    popup='Daya',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.110802, 119.490172)
+    popup='Kapasa',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.162435, 119.419790)
+    popup='Mamajang',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.119009, 119.416701)
+    popup='Wajo',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(    
+    location=(-5.159700, 119.445540)
+    popup='Masale',
+    Icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
