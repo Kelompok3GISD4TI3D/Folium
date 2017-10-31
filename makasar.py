@@ -625,22 +625,22 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.155190, 119.489077
+ location=(-5.155190, 119.489077)
     popup='Baruga',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.153630, 119.487360
+ location=(-5.153630, 119.487360)
     popup='Bunaken',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.153908, 119.487060
+ location=(-5.153908, 119.487060)
     popup='Takabonerate',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.156430, 119.487478
+ location=(-5.156430, 119.487478)
     popup='Rinjani',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
@@ -649,8 +649,40 @@ folium.Marker(
     popup='Kintamani',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-
-    
-        
+folium.Marker(
+ location=(-5.179532, 119.439017)
+    popup='Mangasa',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ folium.Marker(
+  location=(-5.176454, 119.446913)
+    popup='Karunrung',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+     folium.Marker(
+  location=(-5.173719, 119.454466)
+    popup='Kassi-Kassi',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+  location=(-5.149442, 119.460646)
+    popup='Batua',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)  
+  location=(-5.144997, 119.470602)
+    popup='Tello Baru',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+     location=(-5.129951, 119.472319)
+    popup='Panaikang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+    location=(-5.116273, 119.465796)
+    popup='Lakkang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+    location=(-5.172693, 119.463049)
+    popup='Gunung Sari',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
     
     
