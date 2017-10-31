@@ -599,7 +599,58 @@ folium.Marker(
     popup='Tj. Merdeka',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)        
-        
+ folium.Marker(
+ location=(-5.159668, 119.496695)
+    popup='ayu agung III',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.158535, 119.495504)
+    popup='Batu Raja',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.157520, 119.496051)
+    popup='Tj.Pinang jaya',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.156590, 119.493047)
+    popup='kutacene 2',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.154944, 119.489828)
+    popup='Mentarang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.155190, 119.489077
+    popup='Baruga',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.153630, 119.487360
+    popup='Bunaken',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.153908, 119.487060
+    popup='Takabonerate',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.156430, 119.487478
+    popup='Rinjani',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+folium.Marker(
+ location=(-5.153823, 119.485826
+    popup='Kintamani',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+
+    
         
     
     
