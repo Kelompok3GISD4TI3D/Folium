@@ -529,4 +529,51 @@ location=(-5.153055, 119.424002)
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 
-
+location=(-5.192681, 119.420688)
+    popup='Parang Tambung',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.200204, 119.395375)
+    popup='Barombong',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.185520, 119.406273)
+    popup='Tj. Merdeka',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.083161, 119.540345)
+    popup='Sudiang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.113938, 119.412973)
+    popup='Tamalabba',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)    
+location=(-5.109434, 119.483992)
+    popup='Kapasa',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)        
+location=(-5.120718, 119.469572)
+    popup='Parang Loe',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)     
+location=(-5.190131, 119.497381)
+    popup='Tamangapa',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)    
+location=(-5.174745, 119.510428)
+    popup='Tamangapa',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)  
+location=(-5.137474, 119.478842)
+    popup='Tamalanrea Indah',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)      
+ location=(-5.183977, 119.399878)
+    popup='Tj. Merdeka',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)        
+        
+        
+    
+    
