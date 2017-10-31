@@ -464,111 +464,137 @@ folium.Marker(
     popup='Mutiara III',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.151077, 119.427880)
     popup='Mutiara IV',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.151419, 119.427794)
     popup='Mutiara V',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.151088, 119.423406)
     popup='Anuang',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.149934, 119.419200)
     popup='Domba',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.149998, 119.415348)
     popup='Merpati',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.127643, 119.430176)
     popup='Kalukuang',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.128327, 119.424511)
     popup='Baraya',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.133371, 119.422795)
     popup='Wajo Baru',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.134225, 119.419190)
     popup='Gaddong',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.137217, 119.412752)
     popup='Baru',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.144332, 119.414169)
     popup='Jl. Dr. Sutomo 43-51',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.144696, 119.418246)
     popup='Jl. Sungai Nuri',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.146042, 119.411530)
     popup='Jl. Yosep Latumahina 14',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.146569, 119.418606)
     popup='Lembaga Gerakan Orang Tua As',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.149379, 119.421921)
     popup='Audy Husain dr SpB',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.153055, 119.424002)
     popup='Dealers Toto - Makasar',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-
+folium.Marker(
 location=(-5.192681, 119.420688)
     popup='Parang Tambung',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.200204, 119.395375)
     popup='Barombong',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.185520, 119.406273)
     popup='Tj. Merdeka',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.083161, 119.540345)
     popup='Sudiang',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+folium.Marker(
 location=(-5.113938, 119.412973)
     popup='Tamalabba',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)    
+    ).add_to(m)   
+folium.Marker(
 location=(-5.109434, 119.483992)
     popup='Kapasa',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)        
+    ).add_to(m)  
+folium.Marker(
 location=(-5.120718, 119.469572)
     popup='Parang Loe',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)     
+    ).add_to(m)   
+folium.Marker(
 location=(-5.190131, 119.497381)
     popup='Tamangapa',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)    
+    ).add_to(m)  
+folium.Marker(
 location=(-5.174745, 119.510428)
     popup='Tamangapa',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
+folium.Marker(
 location=(-5.137474, 119.478842)
     popup='Tamalanrea Indah',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)      
+    ).add_to(m)   
+folium.Marker(
  location=(-5.183977, 119.399878)
     popup='Tj. Merdeka',
     icon=folium.Icon(icon='info-sign')
