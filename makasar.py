@@ -706,6 +706,6 @@ folium.Marker(
   folium.Marker(
  location=(-5.1411782,119.4371453
     popup='Amaris Hotel Pettarani 
-            Sinrijala, Kec. Makassar, Kota Makassar, Sulawesi Selatan ',
+            Sinrijala, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
