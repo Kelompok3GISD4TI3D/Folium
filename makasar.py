@@ -664,19 +664,19 @@ folium.Marker(
  folium.Marker(
  location=(-5.1275586,119.4059663
     popup='Ocean View Hotel
-          Pattunuang, Wajo, Kota Makassar, Sulawesi Selatan  ',
+          Pattunuang, Wajo, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
   folium.Marker(
  location=(-5.1371364,119.4059031
     popup='Asston Makassar Hotel & Convention
-          Baru, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
+          Baru, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)   
    folium.Marker(
  location=(-5.1468997,119.412981
     popup='LARIZ Wthree Hotel Lagaligo
-          Mangkura, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan  ',
+          Mangkura, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)        
    folium.Marker(
@@ -700,12 +700,12 @@ folium.Marker(
   folium.Marker(
  location=(-5.1679412,119.4259841
     popup='Four Points by Sheraton Makassar 
-            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan  ',
+            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
   folium.Marker(
  location=(-5.1411782,119.4371453
     popup='Amaris Hotel Pettarani 
-            Sinrijala, Kec. Makassar, Kota Makassar, Sulawesi Selatan   ',
+            Sinrijala, Kec. Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
