@@ -625,22 +625,22 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.155190, 119.489077)
+ location=(-5.155190, 119.489077
     popup='Baruga',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.153630, 119.487360)
+ location=(-5.153630, 119.487360
     popup='Bunaken',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.153908, 119.487060)
+ location=(-5.153908, 119.487060
     popup='Takabonerate',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.156430, 119.487478)
+ location=(-5.156430, 119.487478
     popup='Rinjani',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
@@ -650,39 +650,45 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
 folium.Marker(
- location=(-5.179532, 119.439017)
-    popup='Mangasa',
+ location=(-5.1446417,119.4081528
+    popup='Hotel ibis Makassar city center
+           Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
  folium.Marker(
-  location=(-5.176454, 119.446913)
-    popup='Karunrung',
+ location=(-5.1368735,119.4079409
+    popup='Hotel Singgasana
+          Baru, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-     folium.Marker(
-  location=(-5.173719, 119.454466)
-    popup='Kassi-Kassi',
+ folium.Marker(
+ location=(-5.1275586,119.4059663
+    popup='Ocean View Hotel
+          Pattunuang, Wajo, Kota Makassar, Sulawesi Selatan  ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-  location=(-5.149442, 119.460646)
-    popup='Batua',
+  folium.Marker(
+ location=(-5.1371364,119.4059031
+    popup='Asston Makassar Hotel & Convention
+          Baru, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)  
-  location=(-5.144997, 119.470602)
-    popup='Tello Baru',
+    ).add_to(m)   
+   folium.Marker(
+ location=(-5.1468997,119.412981
+    popup='LARIZ Wthree Hotel Lagaligo
+          Mangkura, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan  ',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)
-     location=(-5.129951, 119.472319)
-    popup='Panaikang',
+    ).add_to(m)        
+   folium.Marker(
+ location=(-5.1395446,119.411696
+    popup='Hotel Novotel Makassar Grand Shayla
+          Sawerigading, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)
-    location=(-5.116273, 119.465796)
-    popup='Lakkang',
+    ).add_to(m)    
+   folium.Marker(
+ location=(-5.1407681,119.4078358
+    popup='Hotel Santika Makassar 
+           Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
     icon=folium.Icon(icon='info-sign')
-    ).add_to(m)
-    location=(-5.172693, 119.463049)
-    popup='Gunung Sari',
-    icon=folium.Icon(icon='info-sign')
-    ).add_to(m)
-    
+    ).add_to(m) 
     
