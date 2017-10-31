@@ -709,3 +709,5 @@ folium.Marker(
             Sinrijala, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
+      
+   m.save('index.html')
