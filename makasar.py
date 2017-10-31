@@ -484,3 +484,49 @@ location=(-5.149998, 119.415348)
     popup='Merpati',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
+location=(-5.127643, 119.430176)
+    popup='Kalukuang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.128327, 119.424511)
+    popup='Baraya',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.133371, 119.422795)
+    popup='Wajo Baru',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.134225, 119.419190)
+    popup='Gaddong',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.137217, 119.412752)
+    popup='Baru',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.144332, 119.414169)
+    popup='Jl. Dr. Sutomo 43-51',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.144696, 119.418246)
+    popup='Jl. Sungai Nuri',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.146042, 119.411530)
+    popup='Jl. Yosep Latumahina 14',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.146569, 119.418606)
+    popup='Lembaga Gerakan Orang Tua As',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.149379, 119.421921)
+    popup='Audy Husain dr SpB',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+location=(-5.153055, 119.424002)
+    popup='Dealers Toto - Makasar',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+
+
