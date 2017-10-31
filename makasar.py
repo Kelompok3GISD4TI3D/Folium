@@ -691,4 +691,21 @@ folium.Marker(
            Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
-    
+   folium.Marker(
+ location=(-5.1430535,119.4073701
+    popup='Favehotel Daeng Tompo Makassar 
+           Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)  
+  folium.Marker(
+ location=(-5.1679412,119.4259841
+    popup='Four Points by Sheraton Makassar 
+            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan  ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)  
+  folium.Marker(
+ location=(-5.1411782,119.4371453
+    popup='Amaris Hotel Pettarani 
+            Sinrijala, Kec. Makassar, Kota Makassar, Sulawesi Selatan   ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)  
