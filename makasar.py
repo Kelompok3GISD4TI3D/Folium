@@ -656,9 +656,9 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
  folium.Marker(
- location=(-5.1368735,119.4079409
-    popup='Hotel Singgasana
-          Baru, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
+ location=(-5.1493299,119.408606
+    popup='Travellers Hotel Phinisi
+         Mariso, Kunjung Mae, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
  folium.Marker(
@@ -682,19 +682,19 @@ folium.Marker(
    folium.Marker(
  location=(-5.1395446,119.411696
     popup='Hotel Novotel Makassar Grand Shayla
-          Sawerigading, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
+          Sawerigading, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)    
    folium.Marker(
  location=(-5.1407681,119.4078358
     popup='Hotel Santika Makassar 
-           Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
+           Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
    folium.Marker(
- location=(-5.1430535,119.4073701
-    popup='Favehotel Daeng Tompo Makassar 
-           Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan  ',
+ location=(-5.1389774,119.4038936
+    popup='Losari Beach Hotel Makassar 
+           Bulo Gading, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
   folium.Marker(
