@@ -811,4 +811,55 @@ location=(-5.13693,119.4733743)
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     
+    folium.Marker(
+    location=(-5.133116, 119.488026)
+    popup='Universitas Hasanuddin',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m) 
+   folium.Marker(
+    location=(-5.139116, 119.522030)
+    popup='Perumahan Griya Bumi Firda Mas, B',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m) 
+  folium.Marker(
+    location=(-5.139919, 119.523914)
+    popup='Jl. Paccerakkang Paccerakkang, Biring Kanaya, Kota M ',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m) 
+      folium.Marker(
+    location=(-5.141360, 119.521004)
+    popup='Masjid Babul Khaer',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m) 
+      folium.Marker(
+    location=(-5.140949, 119.519689)
+    popup='Rental MOBIL BTP',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)   
+     folium.Marker(
+    location=(-5.141141, 119.522731)
+    popup='Unnamed Road',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)   
+          folium.Marker(
+    location=(-5.133459, 119.524624)
+    popup='Green Mutiara Paccerakkang',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)   
+    folium.Marker(
+    location=(-5.133739, 119.527797)
+    popup='Jl. Kotipa XIV',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)   
+    folium.Marker(
+    location=(-5.128536, 119.529795)
+    popup='Jl. Bukamata I',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)           
+       folium.Marker(
+    location=(-5.124913, 119.526630)
+    popup='Jl. Poros Mangga Tiga',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)    
+        
    m.save('index.html')
