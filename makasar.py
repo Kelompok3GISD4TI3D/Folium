@@ -753,61 +753,61 @@ folium.Marker(
   folium.Marker(
  location=(-5.1251137,119.4073265)
     popup='Rumah makan Malabar
-           Melayu Baru, Wajo, Kota Makassar, Sulawesi Selatan ',
+           Melayu Baru, Wajo, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
    folium.Marker(
  location=(-5.150782,119.4197483)
     popup='Rumah makan Muda Mudi
-           Maricaya, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
+           Maricaya, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
    folium.Marker(
  location=(-5.1507813,119.4044273)
     popup='Ratu Gurih Seafood Market Resto
-           Losari, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
+           Losari, Ujung Pandang, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
  location=(-5.1501277,119.4124008)
     popup='Rumah Makan Nyoto
-            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan  ',
+            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.1289015,119.4046927)
     popup='Rumah Makan Rajawali
-            Jl Metro Tanjung Bunga  ',
+            Jl Metro Tanjung Bunga',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.6421336,108.6386637)
     popup='New Cendana
-            Masale, Panakkukang, Kota Makassar, Sulawesi Selatan ',
+            Masale, Panakkukang, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.1362844,119.505475)
     popup='Rumah Makan Nike Ardilla
-            Tamalanrea, Kota Makassar, Sulawesi Selatan ',
+            Tamalanrea, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.136931,119.5062053)
     popup='Rumah Makan Kapurung Aroma Palopo
-            Tamalanrea, Makassar, Kota Makassar, Sulawesi Selatan ',
+            Tamalanrea, Makassar, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.1279313,119.4168313)
     popup='Rumah Makan Bravo
-           Parang Layang, Bontoala, Kota Makassar, Sulawesi Selatan ',
+           Parang Layang, Bontoala, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.13693,119.4733743)
     popup='Rumah Makan Citra Minang
-           Karampuang, Panakkukang, Kota Makassar, Sulawesi Selatan ',
+           Karampuang, Panakkukang, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     
