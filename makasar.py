@@ -750,5 +750,35 @@ folium.Marker(
     popup='Buloa',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-   
+  folium.Marker(
+ location=(-5.1251137,119.4073265)
+    popup='Rumah makan Malabar
+           Melayu Baru, Wajo, Kota Makassar, Sulawesi Selatan ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)  
+   folium.Marker(
+ location=(-5.150782,119.4197483)
+    popup='Rumah makan Muda Mudi
+           Maricaya, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+   folium.Marker(
+ location=(-5.1507813,119.4044273)
+    popup='Ratu Gurih Seafood Market Resto
+           Losari, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+    folium.Marker(
+ location=(-5.1501277,119.4124008)
+    popup='Rumah Makan Nyoto
+            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan  ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+    folium.Marker(
+location=(-5.1289015,119.4046927)
+    popup='Rumah Makan Rajawali
+            Jl Metro Tanjung Bunga  ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+    
    m.save('index.html')
