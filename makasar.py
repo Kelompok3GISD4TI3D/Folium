@@ -714,5 +714,41 @@ folium.Marker(
            la'latang tallo,kota makassar',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-  
+ location=(-5.122727, 119.430906)
+    popup='Suangga',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.129994, 119.433781)
+    popup='Karuwisi Utara',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.123946, 119.515771)
+    popup='Jl. Lanraki',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.130507, 119.514290)
+    popup='Jl. Telkom I',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.129875, 119.5135570)
+    popup='Jl. Perumtel III',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.131275, 119.509405)
+    popup='Jl. Palapa IV No.90',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.120311, 119.529682)
+    popup='Jl. Rudal 4',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.092954, 119.538072)
+    popup='Jl. Poros Asrama H.',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.112574, 119.442371)
+    popup='Buloa',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+   
    m.save('index.html')
