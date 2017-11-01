@@ -714,9 +714,5 @@ folium.Marker(
            la'latang tallo,kota makassar',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-  location=(-5.125502, 119.432703)
-    popup='',
-    icon=folium.Icon(icon='info-sign')
-    ).add_to(m)
-      
+  
    m.save('index.html')
