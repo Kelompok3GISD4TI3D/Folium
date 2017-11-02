@@ -860,6 +860,6 @@ location=(-5.13693,119.4733743)
     location=(-5.124913, 119.526630)
     popup='Jl. Poros Mangga Tiga',
     icon=folium.Icon(icon='info-sign')
-     ).add_to(m)    
+     ).add_to(m) 
         
    m.save('index.html')
