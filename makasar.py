@@ -862,4 +862,56 @@ location=(-5.13693,119.4733743)
     icon=folium.Icon(icon='info-sign')
      ).add_to(m) 
         
+         folium.Marker(
+    location=(-5.150457, 119.469715)
+    popup='KSP Makassar Maju',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m) 
+         folium.Marker(
+    location=(-5.150357, 119.469659)
+    popup='Alfamidi',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)  
+         folium.Marker(
+    location=(-5.150319, 119.469723)
+    popup='Sinar Warna Photo',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m) 
+     folium.Marker(
+    location=(-5.150392, 119.469417)
+    popup='Studio Frame Indonesia',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)  
+            folium.Marker(
+    location=(-5.150362, 119.469302)
+    popup='Uni Salon',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)  
+         folium.Marker(
+    location=(-5.150283, 119.469381)
+    popup='Dr. dr. H. Faridin HP ,Sp .PD –KR',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)  
+            folium.Marker(
+    location=(-5.150256, 119.469487)
+    popup='Pinus Game Center and Cafe',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)  
+           folium.Marker(
+    location=(5.150243, 119.469297)
+    popup='DZAKY Jaya Motor',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)    
+         folium.Marker(
+    location=(-5.150335, 119.469163)
+    popup='Indah Salon',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)   
+        folium.Marker(
+    location=(-5.150104, 119.469248)
+    popup='Warkop Daeng Kanang',
+    icon=folium.Icon(icon='info-sign')
+     ).add_to(m)   
+            
+            
    m.save('index.html')
