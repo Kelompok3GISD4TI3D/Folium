@@ -920,8 +920,45 @@ location=(-5.1618332,119.4256637)
     popup='Maestro Karate Sport Lette, Mariso, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
- 
+ location=(-5.096051, 119.537276 )
+    popup='Poros Asrama',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.098669, 119.534540)
+    popup='Goa Ria 8',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.099006, 119.534164)
+    popup='Pajjaiyyang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.100401, 119.533252)
+    popup='Toko Nasatani',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+location=(-5.101785, 119.530967)
+    popup='Makassar 1',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+location=(-5.101988, 119.531348)
+    popup='Makassar 2',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+location=(-5.101117, 119.531981)
+    popup='Maros 1',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+location=(-5.101331, 119.532308)
+    popup='Maros 3',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.101684, 119.532496)
+    popup='Maros 5',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.102234, 119.532968)
+    popup='Maros 7',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
     
-            
-            
    m.save('index.html')
