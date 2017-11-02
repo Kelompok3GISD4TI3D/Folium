@@ -911,7 +911,45 @@ location=(-5.13693,119.4733743)
     location=(-5.150104, 119.469248)
     popup='Warkop Daeng Kanang',
     icon=folium.Icon(icon='info-sign')
-     ).add_to(m)   
+     ).add_to(m)
+        folium.Marker(
+location=(-5.147049,119.4267581)
+    popup='Baju Murah di Makassar
+           Mannuruki, Tamalate, Kota Makassar, Sulawesi Selatan',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+        folium.Marker(
+location=(-5.152259,119.4577043)
+    popup='Lucky Bastard
+           Batua, Manggala, Kota Makassar, Sulawesi Selatan',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+        folium.Marker(
+location=(-5.152258,119.4248733)
+    popup='Distributor Baju Batik Makassar
+           Tamalanrea, Kecamatan Biringkanaya, Makassar',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+        folium.Marker(
+location=(-5.1522561,119.4248732)
+    popup='Konveksi Baju Kaos Makassar
+           Baji Mappakasunggu, Mamajang, Kota Makassar, Sulawesi Selatan ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+       folium.Marker(
+location=(-5.1618342,119.4584947)
+    popup='M7 Kaos Polos In Makassar
+           Borong, Manggala, Kota Makassar, Sulawesi Selatan ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+     folium.Marker(
+location=(-5.1618332,119.4256637)
+    popup='Maestro Karate Sport
+           Lette, Mariso, Kota Makassar, Sulawesi Selatan ',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ 
+    
             
             
    m.save('index.html')
