@@ -651,67 +651,56 @@ folium.Marker(
     ).add_to(m)
 folium.Marker(
  location=(-5.1446417,119.4081528)
-    popup='Hotel ibis Makassar city center
-           Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
+    popup='Hotel ibis Makassar city center Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
  folium.Marker(
  location=(-5.1493299,119.408606)
-    popup='Travellers Hotel Phinisi
-         Mariso, Kunjung Mae, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
+    popup='Travellers Hotel PhinisiMariso, Kunjung Mae, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
  folium.Marker(
  location=(-5.1275586,119.4059663)
-    popup='Ocean View Hotel
-          Pattunuang, Wajo, Kota Makassar, Sulawesi Selatan ',
+    popup='Ocean View Hotel Pattunuang, Wajo, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
   folium.Marker(
  location=(-5.1371364,119.4059031)
-    popup='Asston Makassar Hotel & Convention
-          Baru, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
+    popup='Asston Makassar Hotel & Convention Baru, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)   
    folium.Marker(
  location=(-5.1468997,119.412981)
-    popup='LARIZ Wthree Hotel Lagaligo
-          Mangkura, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
+    popup='LARIZ Wthree Hotel Lagaligo Mangkura, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)        
    folium.Marker(
  location=(-5.1395446,119.411696)
-    popup='Hotel Novotel Makassar Grand Shayla
-          Sawerigading, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
+    popup='Hotel Novotel Makassar Grand Shayla Sawerigading, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)    
    folium.Marker(
  location=(-5.1407681,119.4078358)
-    popup='Hotel Santika Makassar 
-           Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
+    popup='Hotel Santika Makassar Maloku, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
    folium.Marker(
  location=(-5.1389774,119.4038936)
-    popup='Losari Beach Hotel Makassar 
-           Bulo Gading, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
+    popup='Losari Beach Hotel Makassar Bulo Gading, Ujung Pandang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
   folium.Marker(
  location=(-5.1679412,119.4259841)
-    popup='Four Points by Sheraton Makassar 
-            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan ',
+    popup='Four Points by Sheraton Makassar Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
   folium.Marker(
  location=(-5.1411782,119.4371453)
-    popup='Amaris Hotel Pettarani 
-            Sinrijala, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
+    popup='Amaris Hotel Pettarani Sinrijala, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
  location=(-5.125502, 119.432703)
-    popup='lorong 2b
-           la'latang tallo,kota makassar',
+    popup='lorong 2b la latang tallo,kota makassar',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
  location=(-5.122727, 119.430906)
@@ -752,65 +741,54 @@ folium.Marker(
     ).add_to(m)
   folium.Marker(
  location=(-5.1251137,119.4073265)
-    popup='Rumah makan Malabar
-           Melayu Baru, Wajo, Kota Makassar, Sulawesi Selatan',
+    popup='Rumah makan Malabar Melayu Baru, Wajo, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)  
    folium.Marker(
  location=(-5.150782,119.4197483)
-    popup='Rumah makan Muda Mudi
-           Maricaya, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan',
+    popup='Rumah makan Muda Mudi Maricaya, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
    folium.Marker(
  location=(-5.1507813,119.4044273)
-    popup='Ratu Gurih Seafood Market Resto
-           Losari, Ujung Pandang, Kota Makassar, Sulawesi Selatan',
+    popup='Ratu Gurih Seafood Market Resto Losari, Ujung Pandang, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
  location=(-5.1501277,119.4124008)
-    popup='Rumah Makan Nyoto
-            Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan',
+    popup='Rumah Makan Nyoto Banta-Bantaeng, Rappocini, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.1289015,119.4046927)
-    popup='Rumah Makan Rajawali
-            Jl Metro Tanjung Bunga',
+    popup='Rumah Makan Rajawali Jl Metro Tanjung Bunga',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.6421336,108.6386637)
-    popup='New Cendana
-            Masale, Panakkukang, Kota Makassar, Sulawesi Selatan',
+    popup='New Cendana Masale, Panakkukang, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.1362844,119.505475)
-    popup='Rumah Makan Nike Ardilla
-            Tamalanrea, Kota Makassar, Sulawesi Selatan',
+    popup='Rumah Makan Nike Ardilla Tamalanrea, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.136931,119.5062053)
-    popup='Rumah Makan Kapurung Aroma Palopo
-            Tamalanrea, Makassar, Kota Makassar, Sulawesi Selatan',
+    popup='Rumah Makan Kapurung Aroma Palopo Tamalanrea, Makassar, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.1279313,119.4168313)
-    popup='Rumah Makan Bravo
-           Parang Layang, Bontoala, Kota Makassar, Sulawesi Selatan',
+    popup='Rumah Makan Bravo Parang Layang, Bontoala, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
     folium.Marker(
 location=(-5.13693,119.4733743)
-    popup='Rumah Makan Citra Minang
-           Karampuang, Panakkukang, Kota Makassar, Sulawesi Selatan',
+    popup='Rumah Makan Citra Minang Karampuang, Panakkukang, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
-    
     folium.Marker(
     location=(-5.133116, 119.488026)
     popup='Universitas Hasanuddin',
@@ -914,38 +892,32 @@ location=(-5.13693,119.4733743)
      ).add_to(m)
         folium.Marker(
 location=(-5.147049,119.4267581)
-    popup='Baju Murah di Makassar
-           Mannuruki, Tamalate, Kota Makassar, Sulawesi Selatan',
+    popup='Baju Murah di Makassar Mannuruki, Tamalate, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
         folium.Marker(
 location=(-5.152259,119.4577043)
-    popup='Lucky Bastard
-           Batua, Manggala, Kota Makassar, Sulawesi Selatan',
+    popup='Lucky Bastard Batua, Manggala, Kota Makassar, Sulawesi Selatan',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
         folium.Marker(
 location=(-5.152258,119.4248733)
-    popup='Distributor Baju Batik Makassar
-           Tamalanrea, Kecamatan Biringkanaya, Makassar',
+    popup='Distributor Baju Batik Makassar Tamalanrea, Kecamatan Biringkanaya, Makassar',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
         folium.Marker(
 location=(-5.1522561,119.4248732)
-    popup='Konveksi Baju Kaos Makassar
-           Baji Mappakasunggu, Mamajang, Kota Makassar, Sulawesi Selatan ',
+    popup='Konveksi Baju Kaos Makassar Baji Mappakasunggu, Mamajang, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m)
        folium.Marker(
 location=(-5.1618342,119.4584947)
-    popup='M7 Kaos Polos In Makassar
-           Borong, Manggala, Kota Makassar, Sulawesi Selatan ',
+    popup='M7 Kaos Polos In Makassar Borong, Manggala, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
      folium.Marker(
 location=(-5.1618332,119.4256637)
-    popup='Maestro Karate Sport
-           Lette, Mariso, Kota Makassar, Sulawesi Selatan ',
+    popup='Maestro Karate Sport Lette, Mariso, Kota Makassar, Sulawesi Selatan ',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
  
