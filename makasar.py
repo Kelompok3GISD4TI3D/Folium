@@ -960,5 +960,46 @@ location=(-5.101331, 119.532308)
     popup='Maros 7',
     icon=folium.Icon(icon='info-sign')
     ).add_to(m) 
+ location=(-5.111194, 119.423207)
+    popup='Gusung',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.121319, 119.411575)
+    popup='Mampu',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.127939, 119.414899)
+    popup='Ende',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.131930, 119.413726)
+    popup='Pattunuang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.133196, 119.418711)
+    popup='Gaddong',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.133001, 119.407372)
+    popup='Bulo Gading',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.127841, 119.437282)
+    popup='Tammua',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.134948, 119.427996)
+    popup='Malimongan Baru',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+ location=(-5.128425, 119.415876)
+    popup='Bontoala Parang',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m)
+ location=(-5.125797, 119.408643)
+    popup='Melayu Baru',
+    icon=folium.Icon(icon='info-sign')
+    ).add_to(m) 
+    
     
    m.save('index.html')
